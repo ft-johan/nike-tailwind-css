@@ -5,8 +5,11 @@ const App = () => (
     hero
     </section>
     <section className="padding"> Popular product</section>
-    <section className="padding"> Popular product</section>
-    <section className="padding"> Popular product</section>
-    <section className="padding"> Popular product</section></main>
+    <section className="padding"> SuperQuality</section>
+    <section className="padding-x py-10"> Services</section>
+    <section className="padding"> Special offer</section>
+    <section className="bg-pale-blue padding"> coustomer review </section>
+    <section className="padding-x sm:py-32 py-16 w-full"> Subscribe</section>
+    <section className="bg-black"> footer</section></main>
 );
 export default App;
