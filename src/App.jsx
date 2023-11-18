@@ -1,7 +1,6 @@
-export default function App() {
-  return (
-    <h1 className="text-3xl font-bold ">
-      Hello worlds this is johan on the code
-    </h1>
-  )
-}
+const App = () => (
+  <main className="relative">nav
+  <section>
+    hero</section></main>
+);
+export default App;
